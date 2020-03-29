@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">szian17_hw03_Firebase</string>
+    <string name="username">username</string>
+    <string name="send">Send</string>
+    <string name="add_user">Add user</string>
+    <string name="email_address">email address</string>
+    <string name="description">description</string>
+    <string name="background">background</string>
+    <string name="landscape_background">landscape backround</string>
+    <string name="person_icon">person icon</string>
+    <string name="splash_backround">splash backround</string>
+</resources>

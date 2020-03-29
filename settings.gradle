@@ -1,0 +1,2 @@
+rootProject.name='szian17_hw03_Firebase'
+include ':app'
